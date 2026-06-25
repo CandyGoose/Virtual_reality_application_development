@@ -63,5 +63,5 @@ ExportedObj/
 
 # Unity / build artifacts
 .utmp/
-[Bb]urstDebugInformation_DoNotShip/
+*BurstDebugInformation_DoNotShip/
 mono_crash.*.json
